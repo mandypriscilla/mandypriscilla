@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/mandypriscilla/)
+&nbsp;
+
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mandypriscilla&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mandypriscilla&theme=blue-green)
