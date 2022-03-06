@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 &nbsp; 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mandypriscillaa)
 &nbsp;
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mandypriscilla)
+&nbsp;
+[![HackeRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mandypriscilla)
+&nbsp;
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mandypriscilla&show_icons=true)
 
