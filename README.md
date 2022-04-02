@@ -1,4 +1,4 @@
-### Hi there! I'm Mandy😊
+### Hi, I'm Mandy :)
 <!--
 **mandypriscilla/mandypriscilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
