@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 &nbsp;
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mandypriscilla)
 &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandypriscilla&layout=compact)](https://github.com/mandypriscilla/github-readme-stats)
+<!-- ![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandypriscilla&show_icons=true&theme=transparent)
+ -->
